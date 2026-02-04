@@ -1,4 +1,8 @@
 # Due Diligence Questionnaire (DDQ) AI Agent
+![Project Status](https://img.shields.io/badge/Status-Completed-success)
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.95+-009688?logo=fastapi)
+![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js)
 
 ##  Overview
 This project implements an AI-powered agent to automate the Due Diligence process. It parses company documents (PDFs), accepts a list of questions (CSV), and generates answers with confidence scores and citations using RAG (Retrieval Augmented Generation).
